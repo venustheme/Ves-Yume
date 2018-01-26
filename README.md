@@ -2,7 +2,7 @@
 As magento promise, Magento 2 GA is going to be officially released in the next few weeks. To be the leading magento theme provider, we make an efforts to release the highly advanced and most modern magento theme.
 Today we are proud to annouce that our first magento 2.0 theme- Ves Yume is offically released
 
-This Free magento 2.0 theme – Ves Yume is not only fully responsive but it also comes with amazing features such as: Off Canvas Menu & Header Link, Font Awesome, Ajax Cart, Gallery image product detail, Checkout Improvements, Inherite from magento 2.0 blank theme & use Magento 2.0 UI, Combine with Bootstrap 3.x Layout Components.
+This Free magento 2.0 theme – [Ves Yume](http://www.venustheme.com/theme/ves-yume-free-magento-2-theme/) is not only fully responsive but it also comes with amazing features such as: Off Canvas Menu & Header Link, Font Awesome, Ajax Cart, Gallery image product detail, Checkout Improvements, Inherite from magento 2.0 blank theme & use Magento 2.0 UI, Combine with Bootstrap 3.x Layout Components.
 
 We are creating new magento 2 theme. Please follow venustheme on Facebook, Twitter and Google Plus to get new updates.
 
